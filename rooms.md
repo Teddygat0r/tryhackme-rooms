@@ -85,6 +85,9 @@ stuff to do:
 	change password to fortuna.
 	Remove fortuna from /etc/sudoers and add another user that you have credentials for.
 
+# Lion:
+Requires: cve2019-16278.py(file in github)
+
 
 # afterwards stuff:  
 sudo useradd technoblade(i typically use password neverdie)  
